@@ -2,4 +2,4 @@
 
 在注册界面实现Ajax局部刷新验证。
 
-<a href="craze-lee.github.io/Mycontacts/">演示地址</a>
+<a href="http://craze-lee.github.io/Mycontacts/">演示地址</a>
